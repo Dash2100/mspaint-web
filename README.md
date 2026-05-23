@@ -1,6 +1,6 @@
 # MS Paint (Win10) Web Clone
 
-This is a browser-based clone of the classic Windows 10 MS Paint (Paint — Web Edition v1.0). The entire application is contained within a single HTML file, requiring no installation, external dependencies, or backend servers. Just open it in your browser and start drawing!
+This is a browser-based clone of the classic Windows 10 MS Paint. The entire application is contained within a single HTML file, requiring no installation, external dependencies, or backend servers. Just open it in your browser and start drawing!
 
 ## Features
 
@@ -30,13 +30,12 @@ This is a browser-based clone of the classic Windows 10 MS Paint (Paint — Web 
 * **F11**: Toggle full screen
 * **Delete**: Delete selection
 
-## How to Use
-
-1. Download the `paint.html` file to your computer.
-2. Double-click the file or open it using any modern web browser (e.g., Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari).
-3. Start creating!
-
 ## Requirements
 
 * A modern web browser with HTML5 Canvas and ES6 JavaScript support.
 * Mouse, trackpad, or basic touch/stylus pointer input.
+
+---
+
+**Disclaimer**
+This project was created with the assistance of AI. If there are any copyright infringement concerns, please contact me for removal.
